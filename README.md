@@ -13,40 +13,21 @@
 
 ---
 
-## 🧠 Technical Skills
+## 🛠 Technical Skills
 
-### 💻 Programming
-- Python
-- C
-- C++
-- Basic Assembly
-
-### 🔌 Embedded Systems
-- STM32 (STM32CubeIDE)
-- Arduino
-- Microcontroller-based systems
-
-### 🖥 Tools & Software
-- ROS2
-- Multisim
-- KiCad
-- Tinkercad
-- Quartus
-- CodeBlocks
-- Fusion
-
+- 💻 Programming: Python, C/C++
+- 🤖 Robotics: ROS2
+- ⚡ Embedded Systems
+- 🐧 Linux
+- 🔌 Power Systems
+  
 ---
 
-## 🤖 Projects
+## 🚀 Projects
 
-### 🔹 Robotic Arm (STM32)
-Participated in an agricultural robotics competition using STM32-controlled robotic arm.
-
-### 🔹 ROS2 Mapping & Navigation
-Built maps and tested robot navigation using environment mapping.
-
-### 🔹 Smart Door System (C Project)
-Developed a password-based secure door using microcontroller logic.
+- 🤖 Robotics Projects (ROS2, Embedded Systems)
+- ⚡ Power Systems Simulations
+- 🧠 AI & Computer Vision (Coming Soon)
 
 ---
 
